@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 128,
     "versionPublish": "4.5.2",
@@ -1500,7 +1500,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/working.gif",
+              "src": "@PROJECT_PATH@/assets/images/man-using-computer.gif",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
