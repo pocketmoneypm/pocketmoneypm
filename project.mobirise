@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page7.html",
+    "currentPage": "page12.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 128,
     "versionPublish": "4.5.2",
@@ -1434,7 +1434,7 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1500,7 +1500,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/man-using-computer.gif",
+              "src": "@PROJECT_PATH@/assets/images/giphy-2.gif",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1517,9 +1517,9 @@
               "size": 0
             }
           },
-          "title3": "IT Jobs",
+          "title3": "online service",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>more</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>more</a>",
           "media4": {
             "image": {
               "active": true,
@@ -2051,95 +2051,6 @@
         }
       ]
     },
-    "page11.html": {
-      "settings": {
-        "meta_descr": "",
-        "title": "JC 1 IT Job",
-        "order": 6
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#252525",
-            "hamburgerColor": "#f97352"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APP</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#252525"
-            },
-            ".mbr-navbar__section": {
-              "background": "#252525"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#f97352"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "22px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-navbar__items a H4": {
-              "font-size": "24px"
-            },
-            ".mbr-navbar__items a H2": {
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"><h2>HOME</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><h2>BIDSKART shop online</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\"><h2>JOB CLASSIFIEDS</h2><h3></h3></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><h2>MOVIES</h2><h2></h2></a></li>       <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"><h2>EARN MONEY BLOG</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><h2>paytm EARN NOW</h2></a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><h2>ASK QUESTIONS</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\"><h2>CONTACT US</h2></a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pm%20logo-80x66.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "cash",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": "58",
-              "color": "#f97352",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POCKET MONEY</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1z"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "Nothing right now please stay tuned",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3g"
-        }
-      ]
-    },
     "page12.html": {
       "settings": {
         "meta_descr": "",
@@ -2225,7 +2136,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3h"
+          "_anchor": "header3-3h",
+          "_styles": {
+            "H3": {
+              "color": "#f97352"
+            }
+          }
         }
       ]
     },
