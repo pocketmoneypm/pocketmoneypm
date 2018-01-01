@@ -292,7 +292,7 @@
           },
           "title": "BIDSKART SHOP ONLINE",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">CLICK</a>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +406,7 @@
           },
           "title": "CONTACT US",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">CLICK</a>",
           "_tags": [
             "Theme"
           ],
@@ -444,7 +444,7 @@
           },
           "title": "Please Give Us A Feedback",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FEEDBACK</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">FEEDBACK</a>",
           "_tags": [
             "Theme"
           ],
