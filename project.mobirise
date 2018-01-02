@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page9.html",
+    "currentPage": "page12.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -2254,20 +2254,168 @@
         },
         {
           "_params": {
-            "showMeta": false
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Nothing right now please stay tuned",
-          "meta": "By John Smith posted July 30, 2015",
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tcs2-547x292.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Tcs BPS Hiring Fresh Graduates in Kolkata from 6th January",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.naukri.com/job-listings-Tcs-BPS-Hiring-Fresh-Graduates-in-Kolkata-from-6th-January-Tata-Consultancy-Services-Ltd-Kolkata-0-to-0-years-020118006228?src=seo_srp&amp;sid=15149044685743&amp;xp=4&amp;px=1&amp;qp=60%20above%20marks%20prbt%20all%20academic%20areas%20starting%2010th%20standards%20.&amp;srcPage=s\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">click to continue</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tcs2-547x292.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Tcs BPS Hiring Fresh Graduates in Kolkata from 6th January",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">click to continue</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tcs2-547x292.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Tcs BPS Hiring Fresh Graduates in Kolkata from 6th January",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">click to continue</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tcs2-547x292.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Tcs BPS Hiring Fresh Graduates in Kolkata from 6th January",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">click to continue</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3h",
-          "_styles": {
-            "H3": {
-              "color": "#f97352"
-            }
-          }
+          "_name": "features1",
+          "_anchor": "features1-3n"
         }
       ]
     },
