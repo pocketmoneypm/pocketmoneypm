@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page12.html",
+    "currentPage": "page9.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 132,
     "versionPublish": "4.5.2",
@@ -1969,7 +1969,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dribbble-loader-green.gif",
+              "src": "@PROJECT_PATH@/assets/images/swagbucks-600x200.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1986,9 +1986,9 @@
               "size": 0
             }
           },
-          "title2": "comming soon",
+          "title2": "Swagbucks",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>comming soon</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.swagbucks.com/p/register?rb=17221674\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>JOIN NOW</a>",
           "media3": {
             "image": {
               "active": true,
