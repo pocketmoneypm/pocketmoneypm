@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page17.html",
+    "currentPage": "page6.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 128,
+    "uniqCompNum": 130,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -1238,33 +1238,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/under-construction.gif",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1n"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -1333,7 +1306,7 @@
           "_anchor": "ext_menu-1b"
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-prev mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>BACK TO HOME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">FOOD AND BEVERAGES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">MOBILE AND ELECTRONIC GADGETS</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">OFFER ZONE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-alert mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>NOTIFICATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>cart</a> ",
+          "buttons": "   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://bidskart.fwscart.com/\" data-toolbar=\"-mbrBtnMove\">CLICK TO CONTINUE</a>      ",
           "_tags": [
             "Theme"
           ],
