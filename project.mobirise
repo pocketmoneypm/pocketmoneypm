@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page9.html",
+    "currentPage": "page20.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 132,
+    "uniqCompNum": 136,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -1992,7 +1992,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dropbox-carousellogo-dribbble2.gif",
+              "src": "@PROJECT_PATH@/assets/images/mouthshut-com-925007287-7810887-1-200x201.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -2009,9 +2009,9 @@
               "size": 0
             }
           },
-          "title3": "comming soon",
+          "title3": "Mouthshut.com",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>comming soon</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page20.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>JOIN NOW</a>",
           "media4": {
             "image": {
               "active": true,
@@ -2087,7 +2087,7 @@
       "settings": {
         "meta_descr": "",
         "title": "JC1 App referral",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3967,6 +3967,160 @@
           ],
           "_name": "form1",
           "_anchor": "form1-3d"
+        }
+      ]
+    },
+    "page20.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "mouthshut",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#252525",
+            "hamburgerColor": "#f97352"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APP</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#252525"
+            },
+            ".mbr-navbar__section": {
+              "background": "#252525"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f97352"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a H4": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://pocketmoneypm.github.io/pocketmoneypm/\"><h2>HOME</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><h2>BIDSKART shop online</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\"><h2>JOB CLASSIFIEDS</h2><h3></h3></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page15.html\"><h2>MOVIES</h2><h2></h2></a></li>       <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><h2>EARN MONEY BLOG</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><h2>paytm EARN NOW</h2></a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><h2>ASK QUESTIONS</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\"><h2>CONTACT US</h2></a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pm%20logo-80x66.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "58",
+              "color": "#f97352",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POCKET MONEY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mouthshut-com-925007287-7810887-1-200x201.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MOUTHSHUT.COM",
+          "text": "<h3>Now you can earn money by writing honest reviews on products, movies, online sites, anything which you want to share there good or bad with world.\n</h3><p>\n</p><h3>mouthshut.com is offering Rs 100 per honest review you post and share it with your friends on facebook.</h3><h3>Now the question arises what to do and how to do.Well its very simple.</h3><h2>1- Open<a href=\"http://www.mouthshut.com/\"> Mouthshut.com </a>and sign up here.\n</h2><div>\n</div><h3>2- Put your profile picture( a mandotary step to win reward)\n</h3><div>\n</div><h3>3- Search the Product or Service, whose review you want to share with world. If the product or Service is not available in search section then just go and write a mouthpad. Where you can write about a new product.( It will take some time to check the mouthshut team to check your new mouthpad request and approve it)\n</h3><div>\n</div><h3>4- After writing the review. Share it on facebook. thats all from your side.\n</h3><div>\n</div><h3>Note:- Minimum payout is Rs300 to make it to your bank account.\n</h3><div>\n</div><h3>And thats it. CONGRATS . you are just one step to win Rs 100 for your review.\n</h3><div>\n</div><h3>now the team will approve your review.It take sometime to do so.\n</h3><div>\n</div><h3>Now. WRITE SHARE AND WIN.<br>\nPoints to remember<br>\n1- Upload your genuine profile picture.<br>\n2- A genuine Facebook Profile of yours<br>\n3- Sharing only once. Sharing multiple times wont help<br>\n4- MOST IMPORTANT- it should be honest and not copied from any other site.<br>\n5- Words used in reviews are not abusive or offensive.<br>\nAnd yes dont forget to spread the word. Share it with your friends. As they can also share there reviews with the world and get rewarded.</h3><h3>Click below links</h3>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            },
+            ".mbr-article DIV": {
+              "color": "#000000"
+            },
+            ".mbr-article H3": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.mouthshut.com\" data-toolbar=\"-mbrBtnMove\">http://www.mouthshut.com</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.mouthshut.com/contest\" data-toolbar=\"-mbrBtnMove\">For MOUTHSHUT Contest&nbsp;</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3r"
         }
       ]
     }
