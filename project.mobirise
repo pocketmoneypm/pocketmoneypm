@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page20.html",
+    "currentPage": "page16.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 136,
+    "uniqCompNum": 139,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -532,7 +532,7 @@
       "settings": {
         "meta_descr": "",
         "title": "HOME MORE",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -709,7 +709,7 @@
       "settings": {
         "meta_descr": "",
         "title": "ASK QUESTION",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -999,7 +999,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/staytuned-websign-large-480x320.png",
+              "src": "@PROJECT_PATH@/assets/images/small-business-ideas-600x333.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1145,7 +1145,7 @@
       "settings": {
         "meta_descr": "",
         "title": "paytm Earn Money",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1610,7 +1610,7 @@
       "settings": {
         "meta_descr": "",
         "title": "CONTACT",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2897,7 +2897,7 @@
             "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -2963,9 +2963,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/702446781-dc6311d48f-240x360.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -2977,9 +2980,9 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
+          "title3": "\r<div><br></div><div>Jumanji 2 Welcome to the Jungle (2017) 150MB Hindi Dubbed Dual Audio [Hindi + English] HD-TS HQ-CPG HEVC MKV</div>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://l.filescdn.com/d/uilzarmctv2fvxijjpdy7gycleiwuxnrfpk4o3gxwfcek2f7mygn5mawownvgyf75gvxh655/www.hdmovies300.org_JnjiWeJgle140dual.mkv\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "media4": {
             "image": {
               "active": true,
@@ -4121,6 +4124,142 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.mouthshut.com\" data-toolbar=\"-mbrBtnMove\">http://www.mouthshut.com</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.mouthshut.com/contest\" data-toolbar=\"-mbrBtnMove\">For MOUTHSHUT Contest&nbsp;</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-3r"
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "50 Small Business Ideas in India with Low Investment",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#252525",
+            "hamburgerColor": "#f97352"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD APP</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#252525"
+            },
+            ".mbr-navbar__section": {
+              "background": "#252525"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f97352"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "22px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a H4": {
+              "font-size": "24px"
+            },
+            ".mbr-navbar__items a H2": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://pocketmoneypm.github.io/pocketmoneypm/\"><h2>HOME</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\"><h2>BIDSKART shop online</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\"><h2>JOB CLASSIFIEDS</h2><h3></h3></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page15.html\"><h2>MOVIES</h2><h2></h2></a></li>       <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><h2>EARN MONEY BLOG</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\"><h2>paytm EARN NOW</h2></a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><h2>ASK QUESTIONS</h2></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\"><h2>CONTACT US</h2></a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pm%20logo-80x66.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "58",
+              "color": "#f97352",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POCKET MONEY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3s"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<h1>50 Small Business Ideas in India with Low Investment</h1>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3t"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            },
+            ".mbr-article H3": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3><br></h3><h3>\n</h3><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3u"
         }
       ]
     }
