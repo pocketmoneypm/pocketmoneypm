@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page16.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 139,
     "versionPublish": "4.5.2",
@@ -1407,7 +1407,7 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -1496,7 +1496,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/giphy-2.gif",
+              "src": "@PROJECT_PATH@/assets/images/technopark-thiruvananthapuram-logo-600x132.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1513,9 +1513,9 @@
               "size": 0
             }
           },
-          "title4": "Online Services",
+          "title4": "Techno park jobs",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>more</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.technopark.org/job-search\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>more</a>",
           "media5": {
             "image": {
               "active": true,
