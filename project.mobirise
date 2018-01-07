@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "POCKET MONEY",
-    "currentPage": "page7.html",
+    "currentPage": "page13.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 139,
+    "uniqCompNum": 140,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -127,7 +127,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/aass.gif",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#84aef7",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -141,7 +141,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/happy-new-year-sparkling-glitter-gold-animated-gif.gif",
+              "src": "@PROJECT_PATH@/assets/images/business-ideas-ad62cce1ca-1000x560.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2493,6 +2493,31 @@
           "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POCKET MONEY</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-29"
+        },
+        {
+          "_params": {
+            "blockTitle": "VISITORS",
+            "HTMLCode": "<script type=\"text/javascript\" src=\"//ra.revolvermaps.com/0/0/6.js?i=0a0ijbhxoqq&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80\" async=\"async\"></script>",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "VISITORS",
+          "HTMLCode": "<script type=\"text/javascript\" src=\"//ra.revolvermaps.com/0/0/6.js?i=0a0ijbhxoqq&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80\" async=\"async\"></script>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-3v"
         },
         {
           "_params": {
