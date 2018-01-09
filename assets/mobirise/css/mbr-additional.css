@@ -167,17 +167,8 @@
 #ext_menu-u .mbr-navbar__items a H2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-#form1-v .btn {
-  font-size: 18px;
-}
-#form1-v .mbr-header__text {
-  color: #f97352;
-}
-#msg-box1-3j .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-3j .mbr-article {
-  color: #fff;
+#features1-3z .mbr-section__col .mbr-header__text {
+  color: #553982;
 }
 
 
@@ -319,6 +310,12 @@
 }
 #ext_menu-1o .mbr-navbar__items a H2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#form1-3y .btn {
+  font-size: 18px;
+}
+#form1-3y .mbr-header__text {
+  color: #f97352;
 }
 #contacts3-1u P {
   color: #ffffff;
@@ -622,4 +619,40 @@
 }
 #msg-box3-3u .mbr-article H3 {
   text-align: left;
+}
+
+
+#ext_menu-40 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-40.mbr-navbar--stuck .mbr-navbar__section {
+  background: #252525;
+}
+#ext_menu-40 .mbr-navbar__section {
+  background: #252525;
+}
+#ext_menu-40 .mbr-navbar__hamburger {
+  color: #f97352;
+}
+#ext_menu-40 .mbr-brand__name a {
+  font-size: 22px;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-40 .mbr-navbar__items a H4 {
+  font-size: 24px;
+}
+#ext_menu-40 .mbr-navbar__items a H2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#msg-box3-42 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-42 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-42 .mbr-article P {
+  color: #000000;
+}
+#msg-box3-42 .mbr-article H3 {
+  color: #3c3c3c;
 }
