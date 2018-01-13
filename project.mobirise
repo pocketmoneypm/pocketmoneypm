@@ -528,13 +528,13 @@
         },
         {
           "_params": {
-            "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\"\nborder=\"0\" alt=\"Free Hit Counter\"></a>\n<br><a href=\"https://www.easycounter.com/\">Hit Counter</a>\n",
+            "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>VISITORS</b>",
             "_customCSS": "p{color:white;}",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/6nm3r8m.gif",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff"
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c"
           },
           "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>VISITORS</b>",
           "_customCSS": "p{color:white;}",
