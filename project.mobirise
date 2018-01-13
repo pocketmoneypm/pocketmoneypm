@@ -3,7 +3,7 @@
     "name": "POCKET MONEY",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 147,
+    "uniqCompNum": 148,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -525,6 +525,34 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1v"
+        },
+        {
+          "_params": {
+            "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\"\nborder=\"0\" alt=\"Free Hit Counter\"></a>\n<br><a href=\"https://www.easycounter.com/\">Hit Counter</a>\n",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6nm3r8m.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff"
+          },
+          "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>VISITORS</b>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-43",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         }
       ]
     },
