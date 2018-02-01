@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 148,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
         "#78c9ea",
@@ -23,7 +23,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/time-and-money.gif",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -41,6 +43,9 @@
           "_styles": {
             "P": {
               "color": "#1df1d9"
+            },
+            "B": {
+              "color": "#d14841"
             }
           }
         },
@@ -528,7 +533,7 @@
         },
         {
           "_params": {
-            "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>VISITORS</b>",
+            "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>Disclaimer :- All My Post are Free Available On INTERNET Posted By Somebody Else, Iam Not VIOLATING Any COPYRIGHTED LAW. If Anything Is Against LAW, Please Notify Me So That It Can Be Removed.</b>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/6nm3r8m.gif",
@@ -536,7 +541,7 @@
             "bgColorRadio": true,
             "bgColor": "#3c3c3c"
           },
-          "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>VISITORS</b>",
+          "_customHTML": "<a href=\"https://www.easycounter.com/\">\n<img src=\"https://www.easycounter.com/counter.php?akhilspanicker\" border=\"0\" alt=\"Free Hit Counter\"></a>\n<br><b>Disclaimer :- All My Post are Free Available On INTERNET Posted By Somebody Else, Iam Not VIOLATING Any COPYRIGHTED LAW. If Anything Is Against LAW, Please Notify Me So That It Can Be Removed.</b>",
           "_customCSS": "p{color:white;}",
           "alias": "deltapieditor",
           "_tags": [
@@ -1117,7 +1122,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/staytuned-websign-large-480x320.png",
+              "src": "@PROJECT_PATH@/assets/images/surejob-200-200x37.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1136,11 +1141,11 @@
           },
           "title2": "Earn Money From YouTube",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Read</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://surejob.in/how-to-earn-money-online.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Read</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/staytuned-websign-large-480x320.png",
+              "src": "@PROJECT_PATH@/assets/images/staytuned-websign_large-480x320.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1163,7 +1168,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/staytuned-websign-large-480x320.png",
+              "src": "@PROJECT_PATH@/assets/images/staytuned-websign_large-480x320.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
